@@ -1,2 +1,8 @@
 *.class
 *.log
+.idea
+.project
+.classpath
+target/
+project/
+.bsp
